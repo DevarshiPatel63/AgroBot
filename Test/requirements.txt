@@ -1,3 +1,6 @@
 streamlit
 boto3
 test
+langchain.llms.bedrock
+langchain.memory
+langchain.chains
