@@ -4,3 +4,4 @@ test
 langchain.llms.bedrock
 langchain.memory
 langchain.chains
+langchain
